@@ -15,4 +15,16 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ayush2864/DSA-Training/tree/master/0008-string-to-integer-atoi) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
