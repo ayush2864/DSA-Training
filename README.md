@@ -10,12 +10,14 @@ This repo contains code done and practiced by DSA training
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush2864/DSA-Training/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayush2864/DSA-Training/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush2864/DSA-Training/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush2864/DSA-Training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayush2864/DSA-Training/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush2864/DSA-Training/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +74,9 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
