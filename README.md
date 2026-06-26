@@ -9,6 +9,7 @@ This repo contains code done and practiced by DSA training
 | [0001-two-sum](https://github.com/ayush2864/DSA-Training/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush2864/DSA-Training/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayush2864/DSA-Training/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush2864/DSA-Training/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ayush2864/DSA-Training/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +67,8 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush2864/DSA-Training/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
