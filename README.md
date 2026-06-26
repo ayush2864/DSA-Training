@@ -79,4 +79,8 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/ayush2864/DSA-Training/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
