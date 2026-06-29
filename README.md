@@ -86,6 +86,7 @@ This repo contains code done and practiced by DSA training
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/ayush2864/DSA-Training/tree/master/0176-second-highest-salary) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ayush2864/DSA-Training/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/ayush2864/DSA-Training/tree/master/1683-invalid-tweets) |
 ## Matrix
