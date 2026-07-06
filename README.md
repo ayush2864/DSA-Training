@@ -18,6 +18,7 @@ This repo contains code done and practiced by DSA training
 | [0485-max-consecutive-ones](https://github.com/ayush2864/DSA-Training/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush2864/DSA-Training/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/ayush2864/DSA-Training/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/ayush2864/DSA-Training/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
