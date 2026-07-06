@@ -15,6 +15,7 @@ This repo contains code done and practiced by DSA training
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush2864/DSA-Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/ayush2864/DSA-Training/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush2864/DSA-Training/tree/master/1480-running-sum-of-1d-array) |
@@ -26,6 +27,7 @@ This repo contains code done and practiced by DSA training
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush2864/DSA-Training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayush2864/DSA-Training/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -87,10 +89,12 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 ## Database
 |  |
 | ------- |
