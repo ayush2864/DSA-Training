@@ -15,6 +15,7 @@ This repo contains code done and practiced by DSA training
 | [0073-set-matrix-zeroes](https://github.com/ayush2864/DSA-Training/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/ayush2864/DSA-Training/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush2864/DSA-Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
@@ -83,6 +84,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush2864/DSA-Training/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ayush2864/DSA-Training/tree/master/0010-regular-expression-matching) |
+| [0152-maximum-product-subarray](https://github.com/ayush2864/DSA-Training/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
