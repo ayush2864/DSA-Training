@@ -11,6 +11,7 @@ This repo contains code done and practiced by DSA training
 | [0011-container-with-most-water](https://github.com/ayush2864/DSA-Training/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush2864/DSA-Training/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayush2864/DSA-Training/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/ayush2864/DSA-Training/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayush2864/DSA-Training/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0074-search-a-2d-matrix) |
@@ -70,6 +71,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush2864/DSA-Training/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ayush2864/DSA-Training/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -84,6 +86,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush2864/DSA-Training/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ayush2864/DSA-Training/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/ayush2864/DSA-Training/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ayush2864/DSA-Training/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
