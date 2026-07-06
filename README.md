@@ -11,6 +11,7 @@ This repo contains code done and practiced by DSA training
 | [0011-container-with-most-water](https://github.com/ayush2864/DSA-Training/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush2864/DSA-Training/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayush2864/DSA-Training/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayush2864/DSA-Training/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
@@ -106,6 +107,7 @@ This repo contains code done and practiced by DSA training
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayush2864/DSA-Training/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ayush2864/DSA-Training/tree/master/1672-richest-customer-wealth) |
@@ -114,4 +116,8 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush2864/DSA-Training/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
