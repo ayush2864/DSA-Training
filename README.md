@@ -16,6 +16,7 @@ This repo contains code done and practiced by DSA training
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush2864/DSA-Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/ayush2864/DSA-Training/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,8 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
