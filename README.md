@@ -42,6 +42,7 @@ This repo contains code done and practiced by DSA training
 | [0008-string-to-integer-atoi](https://github.com/ayush2864/DSA-Training/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ayush2864/DSA-Training/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ayush2864/DSA-Training/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/ayush2864/DSA-Training/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ayush2864/DSA-Training/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayush2864/DSA-Training/tree/master/0344-reverse-string) |
 ## Linked List
