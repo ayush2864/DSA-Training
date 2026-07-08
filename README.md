@@ -45,6 +45,7 @@ This repo contains code done and practiced by DSA training
 | [0058-length-of-last-word](https://github.com/ayush2864/DSA-Training/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ayush2864/DSA-Training/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ayush2864/DSA-Training/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/ayush2864/DSA-Training/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/ayush2864/DSA-Training/tree/master/0520-detect-capital) |
 ## Linked List
@@ -87,6 +88,7 @@ This repo contains code done and practiced by DSA training
 | [0027-remove-element](https://github.com/ayush2864/DSA-Training/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayush2864/DSA-Training/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/ayush2864/DSA-Training/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
