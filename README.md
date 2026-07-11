@@ -22,6 +22,7 @@ This repo contains code done and practiced by DSA training
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/ayush2864/DSA-Training/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/ayush2864/DSA-Training/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush2864/DSA-Training/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ayush2864/DSA-Training/tree/master/1672-richest-customer-wealth) |
@@ -69,6 +70,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush2864/DSA-Training/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/ayush2864/DSA-Training/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
