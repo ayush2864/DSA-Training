@@ -51,6 +51,7 @@ This repo contains code done and practiced by DSA training
 | [0165-compare-version-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/ayush2864/DSA-Training/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/ayush2864/DSA-Training/tree/master/0520-detect-capital) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayush2864/DSA-Training/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush2864/DSA-Training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush2864/DSA-Training/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayush2864/DSA-Training/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
