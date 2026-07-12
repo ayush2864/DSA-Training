@@ -63,6 +63,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ayush2864/DSA-Training/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
