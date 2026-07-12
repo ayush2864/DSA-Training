@@ -64,6 +64,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This repo contains code done and practiced by DSA training
 | [0151-reverse-words-in-a-string](https://github.com/ayush2864/DSA-Training/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/ayush2864/DSA-Training/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
