@@ -25,6 +25,7 @@ This repo contains code done and practiced by DSA training
 | [0485-max-consecutive-ones](https://github.com/ayush2864/DSA-Training/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush2864/DSA-Training/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/ayush2864/DSA-Training/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush2864/DSA-Training/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ayush2864/DSA-Training/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -37,6 +38,7 @@ This repo contains code done and practiced by DSA training
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush2864/DSA-Training/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/ayush2864/DSA-Training/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ This repo contains code done and practiced by DSA training
 | [0239-sliding-window-maximum](https://github.com/ayush2864/DSA-Training/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush2864/DSA-Training/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush2864/DSA-Training/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/ayush2864/DSA-Training/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayush2864/DSA-Training/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
