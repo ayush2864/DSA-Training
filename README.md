@@ -64,6 +64,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ayush2864/DSA-Training/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0876-middle-of-the-linked-list) |
@@ -78,6 +79,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ayush2864/DSA-Training/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/ayush2864/DSA-Training/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
