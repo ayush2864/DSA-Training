@@ -68,6 +68,7 @@ This repo contains code done and practiced by DSA training
 | [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/ayush2864/DSA-Training/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ This repo contains code done and practiced by DSA training
 | [0021-merge-two-sorted-lists](https://github.com/ayush2864/DSA-Training/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ayush2864/DSA-Training/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +121,7 @@ This repo contains code done and practiced by DSA training
 | [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush2864/DSA-Training/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ayush2864/DSA-Training/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -169,6 +172,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ayush2864/DSA-Training/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
 ## Interactive
 |  |
 | ------- |
