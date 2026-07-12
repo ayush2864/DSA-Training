@@ -35,6 +35,7 @@ This repo contains code done and practiced by DSA training
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush2864/DSA-Training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayush2864/DSA-Training/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/ayush2864/DSA-Training/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush2864/DSA-Training/tree/master/0424-longest-repeating-character-replacement) |
@@ -63,6 +64,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -110,6 +112,7 @@ This repo contains code done and practiced by DSA training
 | [0027-remove-element](https://github.com/ayush2864/DSA-Training/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayush2864/DSA-Training/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush2864/DSA-Training/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/ayush2864/DSA-Training/tree/master/0344-reverse-string) |
