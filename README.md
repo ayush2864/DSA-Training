@@ -209,6 +209,7 @@ This repo contains code done and practiced by DSA training
 | [0100-same-tree](https://github.com/ayush2864/DSA-Training/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ This repo contains code done and practiced by DSA training
 | [0100-same-tree](https://github.com/ayush2864/DSA-Training/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@ This repo contains code done and practiced by DSA training
 | [0100-same-tree](https://github.com/ayush2864/DSA-Training/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
