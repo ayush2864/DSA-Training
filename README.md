@@ -210,6 +210,7 @@ This repo contains code done and practiced by DSA training
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -218,6 +219,7 @@ This repo contains code done and practiced by DSA training
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -232,6 +234,7 @@ This repo contains code done and practiced by DSA training
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
