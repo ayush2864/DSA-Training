@@ -202,4 +202,20 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayush2864/DSA-Training/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayush2864/DSA-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
