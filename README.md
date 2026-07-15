@@ -68,6 +68,7 @@ This repo contains code done and practiced by DSA training
 | [0021-merge-two-sorted-lists](https://github.com/ayush2864/DSA-Training/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ayush2864/DSA-Training/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ayush2864/DSA-Training/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayush2864/DSA-Training/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ayush2864/DSA-Training/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
@@ -86,6 +87,7 @@ This repo contains code done and practiced by DSA training
 | [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ayush2864/DSA-Training/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ayush2864/DSA-Training/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/ayush2864/DSA-Training/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ayush2864/DSA-Training/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
@@ -126,6 +128,7 @@ This repo contains code done and practiced by DSA training
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayush2864/DSA-Training/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ayush2864/DSA-Training/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayush2864/DSA-Training/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush2864/DSA-Training/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0165-compare-version-numbers) |
@@ -181,6 +184,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ayush2864/DSA-Training/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/ayush2864/DSA-Training/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
 ## Interactive
 |  |
