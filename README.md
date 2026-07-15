@@ -37,6 +37,7 @@ This repo contains code done and practiced by DSA training
 | [0073-set-matrix-zeroes](https://github.com/ayush2864/DSA-Training/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayush2864/DSA-Training/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ayush2864/DSA-Training/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush2864/DSA-Training/tree/master/0424-longest-repeating-character-replacement) |
@@ -71,6 +72,7 @@ This repo contains code done and practiced by DSA training
 | [0138-copy-list-with-random-pointer](https://github.com/ayush2864/DSA-Training/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayush2864/DSA-Training/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ayush2864/DSA-Training/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ayush2864/DSA-Training/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ayush2864/DSA-Training/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ayush2864/DSA-Training/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
@@ -245,4 +247,12 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayush2864/DSA-Training/tree/master/0098-validate-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ayush2864/DSA-Training/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ayush2864/DSA-Training/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
