@@ -189,6 +189,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0071-simplify-path](https://github.com/ayush2864/DSA-Training/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ayush2864/DSA-Training/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/ayush2864/DSA-Training/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
 ## Interactive
 |  |
@@ -251,6 +252,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayush2864/DSA-Training/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ayush2864/DSA-Training/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
