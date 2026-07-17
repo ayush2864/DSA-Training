@@ -28,6 +28,7 @@ This repo contains code done and practiced by DSA training
 | [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush2864/DSA-Training/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/ayush2864/DSA-Training/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/ayush2864/DSA-Training/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush2864/DSA-Training/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ayush2864/DSA-Training/tree/master/1672-richest-customer-wealth) |
@@ -189,6 +190,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/ayush2864/DSA-Training/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +201,7 @@ This repo contains code done and practiced by DSA training
 | [0155-min-stack](https://github.com/ayush2864/DSA-Training/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/ayush2864/DSA-Training/tree/master/0735-asteroid-collision) |
 ## Interactive
 |  |
 | ------- |
