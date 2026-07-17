@@ -23,6 +23,7 @@ This repo contains code done and practiced by DSA training
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ayush2864/DSA-Training/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/ayush2864/DSA-Training/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush2864/DSA-Training/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ayush2864/DSA-Training/tree/master/0904-fruit-into-baskets) |
@@ -42,6 +43,7 @@ This repo contains code done and practiced by DSA training
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush2864/DSA-Training/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush2864/DSA-Training/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/ayush2864/DSA-Training/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -191,6 +193,7 @@ This repo contains code done and practiced by DSA training
 | [0143-reorder-list](https://github.com/ayush2864/DSA-Training/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ayush2864/DSA-Training/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
 ## Interactive
 |  |
 | ------- |
@@ -261,4 +264,8 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayush2864/DSA-Training/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
