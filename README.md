@@ -17,6 +17,7 @@ This repo contains code done and practiced by DSA training
 | [0073-set-matrix-zeroes](https://github.com/ayush2864/DSA-Training/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayush2864/DSA-Training/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ayush2864/DSA-Training/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush2864/DSA-Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@ This repo contains code done and practiced by DSA training
 | [0002-add-two-numbers](https://github.com/ayush2864/DSA-Training/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ayush2864/DSA-Training/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ayush2864/DSA-Training/tree/master/0012-integer-to-roman) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayush2864/DSA-Training/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0071-simplify-path](https://github.com/ayush2864/DSA-Training/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ayush2864/DSA-Training/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayush2864/DSA-Training/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ayush2864/DSA-Training/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
