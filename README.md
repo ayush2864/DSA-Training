@@ -18,6 +18,7 @@ This repo contains code done and practiced by DSA training
 | [0074-search-a-2d-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayush2864/DSA-Training/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush2864/DSA-Training/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/ayush2864/DSA-Training/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayush2864/DSA-Training/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ayush2864/DSA-Training/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush2864/DSA-Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -287,4 +288,8 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ayush2864/DSA-Training/tree/master/0933-number-of-recent-calls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ayush2864/DSA-Training/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
