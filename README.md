@@ -210,6 +210,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayush2864/DSA-Training/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/ayush2864/DSA-Training/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,6 +269,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0146-lru-cache](https://github.com/ayush2864/DSA-Training/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ayush2864/DSA-Training/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/ayush2864/DSA-Training/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -277,4 +279,8 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush2864/DSA-Training/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ayush2864/DSA-Training/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
