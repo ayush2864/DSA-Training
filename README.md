@@ -98,6 +98,7 @@ This repo contains code done and practiced by DSA training
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayush2864/DSA-Training/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/ayush2864/DSA-Training/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/ayush2864/DSA-Training/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/ayush2864/DSA-Training/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -302,4 +303,5 @@ This repo contains code done and practiced by DSA training
 | [0190-reverse-bits](https://github.com/ayush2864/DSA-Training/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ayush2864/DSA-Training/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ayush2864/DSA-Training/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/ayush2864/DSA-Training/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
