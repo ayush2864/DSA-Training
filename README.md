@@ -25,6 +25,7 @@ This repo contains code done and practiced by DSA training
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ayush2864/DSA-Training/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/ayush2864/DSA-Training/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ayush2864/DSA-Training/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush2864/DSA-Training/tree/master/0643-maximum-average-subarray-i) |
@@ -45,6 +46,7 @@ This repo contains code done and practiced by DSA training
 | [0146-lru-cache](https://github.com/ayush2864/DSA-Training/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ayush2864/DSA-Training/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush2864/DSA-Training/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush2864/DSA-Training/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
@@ -95,6 +97,7 @@ This repo contains code done and practiced by DSA training
 | [0050-powx-n](https://github.com/ayush2864/DSA-Training/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayush2864/DSA-Training/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/ayush2864/DSA-Training/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/ayush2864/DSA-Training/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -123,6 +126,7 @@ This repo contains code done and practiced by DSA training
 | [0035-search-insert-position](https://github.com/ayush2864/DSA-Training/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ayush2864/DSA-Training/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush2864/DSA-Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/ayush2864/DSA-Training/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayush2864/DSA-Training/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
@@ -170,6 +174,7 @@ This repo contains code done and practiced by DSA training
 | [0148-sort-list](https://github.com/ayush2864/DSA-Training/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayush2864/DSA-Training/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayush2864/DSA-Training/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ayush2864/DSA-Training/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -295,5 +300,6 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0136-single-number](https://github.com/ayush2864/DSA-Training/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ayush2864/DSA-Training/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/ayush2864/DSA-Training/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ayush2864/DSA-Training/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
