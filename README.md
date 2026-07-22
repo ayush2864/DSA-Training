@@ -71,6 +71,7 @@ This repo contains code done and practiced by DSA training
 | [0424-longest-repeating-character-replacement](https://github.com/ayush2864/DSA-Training/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayush2864/DSA-Training/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/ayush2864/DSA-Training/tree/master/0520-detect-capital) |
+| [0649-dota2-senate](https://github.com/ayush2864/DSA-Training/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayush2864/DSA-Training/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
@@ -170,6 +171,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush2864/DSA-Training/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/ayush2864/DSA-Training/tree/master/0649-dota2-senate) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +228,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayush2864/DSA-Training/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/ayush2864/DSA-Training/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/ayush2864/DSA-Training/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/ayush2864/DSA-Training/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
