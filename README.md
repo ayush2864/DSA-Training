@@ -28,6 +28,7 @@ This repo contains code done and practiced by DSA training
 | [0268-missing-number](https://github.com/ayush2864/DSA-Training/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ayush2864/DSA-Training/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ayush2864/DSA-Training/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/ayush2864/DSA-Training/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush2864/DSA-Training/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ayush2864/DSA-Training/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ayush2864/DSA-Training/tree/master/0735-asteroid-collision) |
@@ -87,6 +88,7 @@ This repo contains code done and practiced by DSA training
 | [0206-reverse-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/ayush2864/DSA-Training/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush2864/DSA-Training/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -223,6 +225,7 @@ This repo contains code done and practiced by DSA training
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayush2864/DSA-Training/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/ayush2864/DSA-Training/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/ayush2864/DSA-Training/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
@@ -282,6 +285,7 @@ This repo contains code done and practiced by DSA training
 | ------- |
 | [0146-lru-cache](https://github.com/ayush2864/DSA-Training/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ayush2864/DSA-Training/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/ayush2864/DSA-Training/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/ayush2864/DSA-Training/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
